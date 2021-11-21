@@ -6,7 +6,7 @@ data_cfg: 'config/data_cfg.yaml' # path to data config
 hyp: 'config/hyps/hyp_finetune.yaml' # path to hyper parameters config
 project: 'results/train'
 artifact_alias: 'latest'
-epochs: 100
+epochs: 1000
 img_size: 640
 rect: False
 resume: False
